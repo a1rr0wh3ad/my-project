@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My first npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1rr0wh3ad/my-project.git"
+  },
+  "author": "Rex David Lorenzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a1rr0wh3ad/my-project/issues"
+  },
+  "homepage": "https://github.com/a1rr0wh3ad/my-project#readme"
+}
